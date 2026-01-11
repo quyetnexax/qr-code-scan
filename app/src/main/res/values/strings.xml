@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">QR Scanner</string>
+    
+    <!-- Main Screen -->
+    <string name="scan_instruction">Point your camera at a QR code to scan</string>
+    <string name="toggle_flash">Toggle Flash</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Scan Result -->
+    <string name="scan_result">Scan Result</string>
+    <string name="ok">OK</string>
+    <string name="copy">Copy</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    
+    <!-- Permissions -->
+    <string name="camera_permission_required">Camera permission is required to scan QR codes</string>
+    
+    <!-- History -->
+    <string name="no_history_yet">No scan history yet</string>
+    
+    <!-- Settings -->
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about">About</string>
+    <string name="app_description">QR Scanner is a simple and fast QR code and barcode scanner. Scan any QR code or barcode to get additional information including results from popular online services.</string>
+    
+</resources>
