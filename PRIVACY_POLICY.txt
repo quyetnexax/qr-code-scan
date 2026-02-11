@@ -37,7 +37,12 @@ All data processing occurs entirely on your device:
 
 ## Third-Party Services
 
-This app does not use any third-party analytics, advertising, or tracking services. We do not share any information with third parties.
+We use third-party services to serve advertisements and support our application. These third parties may collect information about your device and usage to provide relevant ads.
+
+**AppLovin**
+Our application adheres to the AppLovin Terms of Service and Policies for Publishers. For more information regarding their data practices, please review:
+- AppLovin Terms of Service: https://legal.applovin.com/terms/
+- AppLovin Policies for Publishers: https://legal.applovin.com/policies-publishers/
 
 ## Data Security
 
@@ -54,12 +59,11 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-**Email:** [YOUR-EMAIL@example.com]
+**Email:** quyetnexax@gmail.com
 
 ---
 
 **Summary:**
 - Camera is used only for scanning QR codes
 - All data stays on your device
-- No data is collected, stored, or shared with third parties
-- No ads or tracking
+- We use third-party advertising services (AppLovin)
